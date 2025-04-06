@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+#title {
+    color: white;
+    font-family: "Roboto", monospace;
+    font-weight: bold;
+    font-size: 48;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-family: "Roboto", monospace;
+    font-weight: bold;
+    font-size: 48;
+}
+
+button{
+    border-radius: 5px;
+    font-family: "Roboto", monospace;
+    font-weight: bold;
+
+    color: white;
+    border: solid;
+    border-color: palevioletred;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a {
+    color: pink;
+}
